@@ -1,2 +1,2 @@
 # ImageComparison
-Find matching images with matching percentage criterion 
+Find matching images with matching percentage criteria 
