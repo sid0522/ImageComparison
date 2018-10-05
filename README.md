@@ -6,7 +6,7 @@
 
 
 1- Select Folder button to open your system directory
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/12136571/46526294-7e604000-c8ab-11e8-8aea-646f8e6d46e8.png">
+<img align="left" src="https://user-images.githubusercontent.com/12136571/46526294-7e604000-c8ab-11e8-8aea-646f8e6d46e8.png">
 ![](https://user-images.githubusercontent.com/12136571/46526294-7e604000-c8ab-11e8-8aea-646f8e6d46e8.png)
 2- Select your folder where your files are located
 
