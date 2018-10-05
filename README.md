@@ -26,6 +26,7 @@
 </p>
 
 5- Hit Find button start the search, it goes through each file and compare 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12136571/46526364-a9e32a80-c8ab-11e8-9336-5c4191c296f6.png">
 </p>
