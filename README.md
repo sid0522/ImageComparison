@@ -19,21 +19,21 @@ Find matching images with matching percentage criteria
 ![screen shot 2018-10-05 at 3 01 14 pm](https://user-images.githubusercontent.com/12136571/46527703-93d76900-c8af-11e8-9af1-45513635865f.png)
 
 
-5- Hit Find button start the search
+5- Hit Find button start the search, it goes through each file and compare 
 
 ![screen shot 2018-10-05 at 2 30 57 pm](https://user-images.githubusercontent.com/12136571/46526364-a9e32a80-c8ab-11e8-9336-5c4191c296f6.png)
 
 
-6- Find goes through each file and compare 
+6- Shows the message if found any match with selected criteria
 
 ![screen shot 2018-10-05 at 2 40 29 pm](https://user-images.githubusercontent.com/12136571/46527841-e1ec6c80-c8af-11e8-93b3-5e08eb757971.png)
 
 
-7- Shows the message if found any match with selected criteria
+7- Shows the list of matches
 ![screen shot 2018-10-05 at 2 45 27 pm](https://user-images.githubusercontent.com/12136571/46528009-532c1f80-c8b0-11e8-9bcd-feb936836c4d.png)
 
 
-8- Shows the list of matches
+8- 
 ![screen shot 2018-10-05 at 2 45 36 pm](https://user-images.githubusercontent.com/12136571/46528055-71921b00-c8b0-11e8-9586-c8716cb94b70.png)
 
 
