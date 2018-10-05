@@ -1,6 +1,7 @@
 # Project Title
 ## ImageComparison
-Find matching images with percentage criteria
+
+### Find matching images with percentage criteria
 
 
 1- Select Folder button to open your system directory
