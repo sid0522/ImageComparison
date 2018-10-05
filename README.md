@@ -6,11 +6,11 @@
 
 
 1- Select Folder button to open your system directory
-<img align="left" src="https://user-images.githubusercontent.com/12136571/46526294-7e604000-c8ab-11e8-8aea-646f8e6d46e8.png">
-![](https://user-images.githubusercontent.com/12136571/46526294-7e604000-c8ab-11e8-8aea-646f8e6d46e8.png)
-2- Select your folder where your files are located
+<img align="right" src="https://user-images.githubusercontent.com/12136571/46526294-7e604000-c8ab-11e8-8aea-646f8e6d46e8.png">
 
-![screen shot 2018-10-05 at 2 25 39 pm](https://user-images.githubusercontent.com/12136571/46526304-83bd8a80-c8ab-11e8-961d-251ab26016ed.png)
+2- Select your folder where your files are located
+<img align="right" src="https://user-images.githubusercontent.com/12136571/46526304-83bd8a80-c8ab-11e8-961d-251ab26016ed.png">
+
 3- Showing the list of image files and their size
 
 ![screen shot 2018-10-05 at 2 25 49 pm](https://user-images.githubusercontent.com/12136571/46526316-8b7d2f00-c8ab-11e8-9d87-3b421c40065a.png)
