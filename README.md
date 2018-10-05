@@ -34,9 +34,9 @@ Find matching images with matching percentage criteria
 ![screen shot 2018-10-05 at 2 45 27 pm](https://user-images.githubusercontent.com/12136571/46528009-532c1f80-c8b0-11e8-9bcd-feb936836c4d.png)
 
 
-8- 
+8- Select files to delete with checkbox option
 ![screen shot 2018-10-05 at 2 45 36 pm](https://user-images.githubusercontent.com/12136571/46528055-71921b00-c8b0-11e8-9586-c8716cb94b70.png)
 
 
-9- Select files with checkbox 
+9- File deleted sucsessfully
 ![screen shot 2018-10-05 at 2 45 55 pm](https://user-images.githubusercontent.com/12136571/46528108-938b9d80-c8b0-11e8-9494-fdd1681a741b.png)
