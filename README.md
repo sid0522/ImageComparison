@@ -11,14 +11,20 @@
 </p>
 
 2- Select your folder where your files are located
-<img align="center" src="https://user-images.githubusercontent.com/12136571/46526304-83bd8a80-c8ab-11e8-961d-251ab26016ed.png">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12136571/46526304-83bd8a80-c8ab-11e8-961d-251ab26016ed.png">
+</p>
 
 3- Showing the list of image files and their size
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12136571/46526316-8b7d2f00-c8ab-11e8-9d87-3b421c40065a.png">
+</p>
 
-![screen shot 2018-10-05 at 2 25 49 pm](https://user-images.githubusercontent.com/12136571/46526316-8b7d2f00-c8ab-11e8-9d87-3b421c40065a.png)
 4- Set your matching percentage (100% mean exact match)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12136571/46527703-93d76900-c8af-11e8-9af1-45513635865f.png">
+</p>
 
-![screen shot 2018-10-05 at 3 01 14 pm](https://user-images.githubusercontent.com/12136571/46527703-93d76900-c8af-11e8-9af1-45513635865f.png)
 5- Hit Find button start the search, it goes through each file and compare 
 
 ![screen shot 2018-10-05 at 2 30 57 pm](https://user-images.githubusercontent.com/12136571/46526364-a9e32a80-c8ab-11e8-9336-5c4191c296f6.png)
