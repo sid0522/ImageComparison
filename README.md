@@ -10,8 +10,8 @@ Find matching images with matching percentage criteria
 ![screen shot 2018-10-05 at 2 25 39 pm](https://user-images.githubusercontent.com/12136571/46526304-83bd8a80-c8ab-11e8-961d-251ab26016ed.png)
 
 
-
 3- Showing the list of image files and their size
+
 ![screen shot 2018-10-05 at 2 25 49 pm](https://user-images.githubusercontent.com/12136571/46526316-8b7d2f00-c8ab-11e8-9d87-3b421c40065a.png)
 
 
