@@ -20,6 +20,7 @@ Find matching images with matching percentage criteria
 
 
 5- Hit Find button start the search
+
 ![screen shot 2018-10-05 at 2 30 57 pm](https://user-images.githubusercontent.com/12136571/46526364-a9e32a80-c8ab-11e8-9336-5c4191c296f6.png)
 
 
