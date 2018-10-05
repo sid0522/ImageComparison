@@ -32,11 +32,14 @@
 </p>
 
 
+
 6- Shows the message if found any match with selected criteria
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12136571/46527841-e1ec6c80-c8af-11e8-93b3-5e08eb757971.png">
 </p>
  
+
 7- Shows the list of matches
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12136571/46528009-532c1f80-c8b0-11e8-9bcd-feb936836c4d.png">
