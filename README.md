@@ -25,6 +25,7 @@ Find matching images with matching percentage criteria
 
 
 6- Find goes through each file and compare 
+
 ![screen shot 2018-10-05 at 2 40 29 pm](https://user-images.githubusercontent.com/12136571/46527841-e1ec6c80-c8af-11e8-93b3-5e08eb757971.png)
 
 
