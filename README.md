@@ -15,7 +15,7 @@
   <img src="https://user-images.githubusercontent.com/12136571/46526304-83bd8a80-c8ab-11e8-961d-251ab26016ed.png">
 </p>
 
-3- Showing the list of image files and their size
+<left>3- Showing the list of image files and their size</left>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12136571/46526316-8b7d2f00-c8ab-11e8-9d87-3b421c40065a.png">
 </p>
