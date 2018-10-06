@@ -59,4 +59,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Built With
 
-* [Qt Creator](https://www.qt.io/download) - The web framework used
+* [Qt Creator](https://www.qt.io/download)
+* [OpenCV](https://opencv.org/releases.html)
