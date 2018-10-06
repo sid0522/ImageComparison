@@ -3,7 +3,9 @@
 
 ### Find matching images with percentage criteria
 
+## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 1- Select Folder button to open your system directory
 <p align="center">
@@ -54,3 +56,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12136571/46528108-938b9d80-c8b0-11e8-9494-fdd1681a741b.png">
 </p>
+
+## Built With
+
+* [Qt Creator](https://www.qt.io/download) - The web framework used
